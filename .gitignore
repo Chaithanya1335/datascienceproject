@@ -1,3 +1,4 @@
 mlops/
 artifacts/
 logs/
+mlruns
